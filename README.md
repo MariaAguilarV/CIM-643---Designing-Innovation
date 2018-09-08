@@ -2,4 +2,4 @@
 
 **Fall Semester 2018**
 
-All assignments and project documentation will be posted here.
+All assignments and project documentation will be posted in the Wiki section.
